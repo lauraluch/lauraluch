@@ -4,7 +4,7 @@
 <p> My immersion in coding began during the pandemic, as I started studying <b>System Analysis and Development</b> here in Brasil, at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). I'm a graphic design lover, and I also illustrate digitally. 💌 </p>
 
 <h4> 💕 Pronouns </h4>
-<p> My pronouns are <em>she/her</em> </p>
+<p> My pronouns are <em>she/her.</em> </p>
 
 <h3> 📕 What am I currently learning? </h3>
 <p> I'm currently learning <b>C language</b> and Front-End development: <b>Javascript, HTML, CSS and Ajax,</b> but I've studied <b>Python</b> before and I intend to keep studying it. </p>
