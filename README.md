@@ -13,7 +13,7 @@
 <p> I'm brazilian, meaning that my main language is Brazilian Portuguese. However, I also speak English and a little bit of Spanish. </p>
 
 <h3> 📩 How to reach me </h3>
-<p> My personal email is:
+<p> My email is:
   <b>lauraluchiari@outlook.com</b> </p>
 <!--
 **lauraluch/lauraluch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
