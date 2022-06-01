@@ -7,7 +7,7 @@
 <p> My pronouns are <em>she/her.</em> </p>
 
 <h3> 📕 What am I currently learning? </h3>
-<p> I'm currently learning <b>C language</b> and Front-End development: <b>Javascript, HTML and CSS,</b> but I've studied <b>Python</b> before and I intend to keep studying it. </p>
+<p> I'm currently learning <b>C language</b>, <b>Javascript, HTML and CSS,</b> but I've studied <b>Python</b> before and I intend to keep studying it. </p>
 
 <h3> 🍒 What languages do I speak? </h3>
 <p> I'm brazilian, meaning that my main language is Brazilian Portuguese. However, I also speak <b>English</b> and a little bit of Spanish. </p>
