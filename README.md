@@ -1,4 +1,4 @@
-<h1> Hello there! I'm Laura, a curious beginner programmer student 😊 </h2>
+<h2> Hello there! I'm Laura, a curious beginner programmer student 😊 </h2>
 
 <h3> 💬 About me </h3>
 <p> My immersion in coding began during the pandemic, as I started studying <b>System Analysis and Development</b> here in Brasil, at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). I'm a graphic design lover, and I also illustrate digitally. 💌 </p>
