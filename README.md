@@ -1,4 +1,4 @@
-### Hi there! I'm Laura!
+### Hello there! I'm Laura, a curious beginner programmer studying System Analysis and Development!
 
 <!--
 **lauraluch/lauraluch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
