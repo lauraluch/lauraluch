@@ -1,15 +1,18 @@
 <h1> Hello there! I'm Laura, a curious beginner programmer student 😊 </h2>
 
-<h2> 💬 About me </h2>
+<h3> 💬 About me </h3>
 <p> My immersion in coding started during the pandemic, as I started studying <b>System Analysis and Development</b> here in Brasil, at the Instituto Federal de São Paulo (IFSP). I'm a graphic design lover, and I also illustrate digitally. 💌 </p>
+
+<h4> 💕 Pronouns </h4>
+<p> she/her </p>
 
 <h3> 📕 What am I currently learning? </h3>
 <p> I'm currently learning <b>C language</b> and Front-End development: <b>Javascript, HTML, CSS and Ajax,</b> but I've studied <b>Python</b> before and I intend to keep studying it. </p>
 
-<h4> 🍒 What languages do I speak? </h4>
+<h3> 🍒 What languages do I speak? </h3>
 <p> I'm brazilian, meaning that my main language is Brazilian Portuguese. However, I also speak English and a little bit of Spanish. </p>
 
-<h5> 📩 How to reach me </h5>
+<h3> 📩 How to reach me </h3>
 <p> My personal email is:
   <b>lauraluchiari@outlook.com</b> </p>
 <!--
