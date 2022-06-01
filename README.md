@@ -1,7 +1,7 @@
 <h1> Hello there! I'm Laura, a curious beginner programmer student 😊 </h2>
 
 <h3> 💬 About me </h3>
-<p> My immersion in coding started during the pandemic, as I started studying <b>System Analysis and Development</b> here in Brasil, at the Instituto Federal de São Paulo (IFSP). I'm a graphic design lover, and I also illustrate digitally. 💌 </p>
+<p> My immersion in coding started during the pandemic, as I started studying <b>System Analysis and Development</b> here in Brasil, at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). I'm a graphic design lover, and I also illustrate digitally. 💌 </p>
 
 <h4> 💕 Pronouns </h4>
 <p> <em>she/her</em> </p>
