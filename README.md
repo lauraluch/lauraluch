@@ -1,7 +1,7 @@
 <h2> Hello there! I'm Laura 😊 </h2>
 
 <h3> 💬 About me </h3>
-<p> My immersion in coding began during the pandemic, as I started studying <b>System Analysis and Development</b> here in Brazil, at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). I'm a graphic design lover, and I also illustrate digitally. 💌 </p>
+<p> I am currently an undergraduate student majoring in <b>Systems Analysis and Development</b> at the <i>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</i> (IFSP). I have a passion for graphic design and enjoy creating digital illustrations in my free time. 💌 </p>
 
 <h3> 📕 What am I currently learning? </h3>
 <p> I'm currently learning Java and React. I've coded in PHP, C language, Javascript and Python before. </p>
