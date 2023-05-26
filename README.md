@@ -43,9 +43,11 @@ My mother language is Brazilian Portuguese. I also speak **English** and a littl
 <a style="height: 35px;" href="https://www.linkedin.com/in/laura-ranucci-luchiari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a style="height: 35px;" href="mailto:lauraluchiari@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-<br><br><br>
+<br><br>
 <div>
     <a href="https://github.com/lauraluch">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraluch&layout=compact&langs_count=7&theme=dracula&count_private=false"/>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lauraluch&show_icons=true&theme=dracula"/>
 </div>
+    
+![Laura Luchiari's Github stats](https://github-readme-stats.vercel.app/api?username=lauraluch&theme=cobalt&rank_icon=github)
+    <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraluch&theme=cobalt)
