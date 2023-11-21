@@ -9,8 +9,8 @@ I'm currently learning Kotlin, Swift, React and TypeScript.
 ### 💘 Which programming languages do I enjoy the most?
 I have a strong interest in Front-End development, particularly Javascript, TypeScript, React, React Native and design in general.
 <div>
-         
-<img alt="Typescript logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img alt="Typescript logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="Javascript logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img alt="React logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </div>
@@ -23,6 +23,7 @@ I have a strong interest in Front-End development, particularly Javascript, Type
 <img alt="MySQL logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img alt="Java logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="Swift logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img alt="Kotlin logo" style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
 </div>
 
 ### 📌 Tools and Technologies
