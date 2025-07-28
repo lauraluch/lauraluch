@@ -1,7 +1,7 @@
 ## Hello there! I'm Laura 😊
 
 ### 💬 About me
-I am currently an undergraduate student majoring in **Systems Analysis and Development** at the *Instituto Federal de Educação, Ciência e Tecnologia de São Paulo* (IFSP). I have a passion for graphic design and enjoy creating digital illustrations in my free time. 💌
+I hold a degree in **Systems Analysis and Development** from the **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)**. I have a passion for graphic design and enjoy creating digital illustrations in my free time. 💌
 
 ### 📕 What am I currently learning?
 I'm currently learning Kotlin, Swift, React and TypeScript.
@@ -40,7 +40,7 @@ I have a strong interest in Front-End development, particularly Javascript, Type
 </div>
 
 ### 🎯 Am I working somewhere?
-I'm currently working as a Front-End developer, mainly using languages like TypeScript, React, and React Native. Lately, I've been delving into mobile programming and have started exploring Swift and Kotlin.
+I'm currently working as a Front-End developer at **Salespace**, mainly using languages like TypeScript, React, and React Native. Lately, I've been focusing in performance improvements, project management and enhancing the overall user experience.
 
 ### 🍒 What languages do I speak?
 My mother language is Brazilian Portuguese. I also speak **English** and a little bit of Spanish.
